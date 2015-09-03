@@ -1,0 +1,9 @@
+{
+	"name": "MagicMonkey",
+	"version": "1.0.0",
+	"description": "",
+	"author": "Julien Darsel <julien.darsel@gmail.com>",
+	"dependencies": {
+        "twitter": "~1.2.5"
+    }
+}
