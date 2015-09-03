@@ -1,0 +1,9 @@
+
+
+This is just an example :!
+
+1/ Usual "npm install"
+2/ Add your twitter API key in the "set-twitter-api-var.sh" then : "source set-twitter-api-var.sh"
+3/ launch the script : "node twitter-api-test.js"
+
+Optionnal : change the tag from "space" to anything in the twitter-api-test.js file.
