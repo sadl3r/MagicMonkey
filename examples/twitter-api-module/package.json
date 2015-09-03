@@ -1,0 +1,9 @@
+{
+	"name": "module-name",
+	"version": "1.0.0",
+	"description": "An example to illustrate the usage of the twitter API module",
+	"author": "Julien Darsel <julien.darsel@gmail.com>",
+	"dependencies": {
+        "twitter": "~1.2.5"
+    }
+}
