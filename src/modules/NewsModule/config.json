@@ -1,0 +1,10 @@
+{
+  "name" : "NewsModule",
+  "description" : "none",
+  "objectName" : "NewsModule",
+  "objectFile" : "newsModule.js",
+  
+  "onGetMethod" : "",
+  "onPostMethod" : "",
+  "onStreamMethod" : "onStreamHook"
+}

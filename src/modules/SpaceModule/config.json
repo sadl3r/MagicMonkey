@@ -1,0 +1,10 @@
+{
+  "name" : "SpaceModule",
+  "description" : "none",
+  "objectName" : "SpaceModule",
+  "objectFile" : "spaceModule.js",
+  
+  "onGetMethod" : "",
+  "onPostMethod" : "",
+  "onStreamMethod" : "onStreamHook"
+}

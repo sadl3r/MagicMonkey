@@ -1,12 +1,7 @@
 {
-	"tags" : {
-	  "space" : {
-	    "moduleName" : "",
-	    "moduleDB" : ""
-	  },
-  	  "news" : {
-	    "moduleName" : "",
-	    "moduleDB" : ""
-	  }
-	}
+	"tags" : 
+	[
+	  {"ModuleName" : "NewsModule", "ModuleTags" : "news"},
+	  {"ModuleName" : "SpaceModule", "ModuleTags" : "space"}
+	]
 }
