@@ -1,7 +1,6 @@
 "use strict";
 
 var NewsModule = function() {
-	console.log("init news module");
 }
 
 NewsModule.prototype.onStreamHook = function(tweet) {
